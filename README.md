@@ -1,4 +1,4 @@
-# qoala-tesy
+# qoala-test
 
 > A Vue.js project
 
